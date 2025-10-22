@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a video editor and sometimes coder
 <!--
 **ItsNotme5218/ItsNotme5218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
